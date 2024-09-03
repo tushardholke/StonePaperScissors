@@ -22,7 +22,7 @@ This project is a classic Stone Paper Scissors game created with HTML, CSS, and 
 3. Click one of the choices: Stone, Paper, or Scissors.
 4. The result will be shown on the screen, indicating whether you won, lost, or tied.
 
-##Screenshots
+## Screenshots
 
 ![SS1](https://github.com/user-attachments/assets/2d5b2c40-6f58-46d1-8cc9-c0a7ada6547b)
 ![SS2](https://github.com/user-attachments/assets/cda7ecd6-0360-48f5-9669-aad0cf38f6f8)
